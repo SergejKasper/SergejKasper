@@ -5,5 +5,7 @@
 a passionate senior full-stack developer.</b><br>
 ➡ Brows my skills at <a href="https://sergejkasper.dev">sergejkasper.dev</a>
  </p>
+<a href="https://sergejkasper.dev">
 <img src="https://raw.githubusercontent.com/SergejKasper/SergejKasper/master/skills.svg">
+ </a>
 </div>
