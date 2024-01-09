@@ -3,7 +3,7 @@
 <h3> Hi there 👋 I'm Sergej 👨‍💻 </h3>
 <p> I'm a husband, father, faithful christian and <br><b>
 a passionate senior full-stack developer.</b><br>
-➡ Brows my skills at <a href="https://sergejkasper.dev">sergejkasper.dev</a>
+➡ Browse my skills at <a href="https://sergejkasper.dev">sergejkasper.dev</a>
  </p>
 <a href="https://sergejkasper.dev">
 <img src="https://raw.githubusercontent.com/SergejKasper/SergejKasper/master/skills.svg">
